@@ -11,7 +11,7 @@ import chess.ChessPosition;
 public class Program {
 
 	public static void main(String[] args) {
-
+		//test
 		Scanner sc = new Scanner(System.in);
 		ChessMatch chessMatch = new ChessMatch();
 
