@@ -11,7 +11,11 @@ import chess.ChessPosition;
 public class Program {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		
+=======
+		//test
+>>>>>>> ba545717fd7ba585340e2837f3515fbbba01eb54
 		Scanner sc = new Scanner(System.in);
 		ChessMatch chessMatch = new ChessMatch();
 
